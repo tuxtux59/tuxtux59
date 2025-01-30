@@ -26,6 +26,6 @@
 - A fullstack receipes app (like Grocy) with RoR/Elixir, PostgreSQL, React/Native/SolidJS 
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+<!--START_SECTION:activity-->
 
 ---
