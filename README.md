@@ -27,11 +27,6 @@
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/Jurredr/github-widgetbox/issues/22) in [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox)
-2. ❗ Opened issue [#3842](https://github.com/home-assistant/addons/issues/3842) in [home-assistant/addons](https://github.com/home-assistant/addons)
-3. 🗣 Commented on [#103](https://github.com/iMicknl/LoctekMotion_IoT/issues/103#issuecomment-2478739664) in [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
-4. ❗ Opened issue [#103](https://github.com/iMicknl/LoctekMotion_IoT/issues/103) in [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
-5. 🔒 Closed issue [#129153](https://github.com/home-assistant/core/issues/129153) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 ---
