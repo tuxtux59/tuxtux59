@@ -27,6 +27,7 @@
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#22](https://github.com/Jurredr/github-widgetbox/issues/22) in [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox)
 <!--END_SECTION:activity-->
 
 ---
