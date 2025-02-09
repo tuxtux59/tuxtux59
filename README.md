@@ -23,7 +23,7 @@
 
 ### Currently working on
 
-- A fullstack receipes app (like Grocy) with RoR/Elixir, PostgreSQL, React/Native/SolidJS 
+- Baguette Buddy a [fullstack receipes app](https://github.com/tuxtux59/le-giftlab) (like Grocy) with RoR/Elixir, PostgreSQL, React/Native/SolidJS
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
 <!--START_SECTION:activity-->
