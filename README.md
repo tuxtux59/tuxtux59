@@ -27,7 +27,7 @@
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/cryptr-auth/cryptr-jwt-verifier/pull/23) in [cryptr-auth/cryptr-jwt-verifier](https://github.com/cryptr-auth/cryptr-jwt-verifier)
+1. ❗ Opened issue [#191](https://github.com/caxlsx/caxlsx_rails/issues/191) in [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails)
 <!--END_SECTION:activity-->
 
 ---
