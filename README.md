@@ -27,7 +27,7 @@
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#191](https://github.com/caxlsx/caxlsx_rails/issues/191) in [caxlsx/caxlsx_rails](https://github.com/caxlsx/caxlsx_rails)
+1. ❗ Opened issue [#479](https://github.com/caxlsx/caxlsx/issues/479) in [caxlsx/caxlsx](https://github.com/caxlsx/caxlsx)
 <!--END_SECTION:activity-->
 
 ---
