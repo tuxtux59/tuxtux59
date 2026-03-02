@@ -27,7 +27,7 @@
 - A wishlist app for friends and family (giving a try to SolidJS here)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2176](https://github.com/capistrano/capistrano/issues/2176) in [capistrano/capistrano](https://github.com/capistrano/capistrano)
+1. 🎉 Merged PR [#9](https://github.com/9troisquarts/inline-filters/pull/9) in [9troisquarts/inline-filters](https://github.com/9troisquarts/inline-filters)
 <!--END_SECTION:activity-->
 
 ---
